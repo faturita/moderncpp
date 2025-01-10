@@ -1,4 +1,4 @@
-## Modern CPP
+## ModernCPP
 
 A collection of handy snippets to quickly check for reference.
 
